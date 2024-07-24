@@ -91,6 +91,6 @@ Wanna connect? Hit me up! 🚀
 ## 🎧 Recently Listening To
 
 <div align="center">
-<img src="https://apple-music-readme.vercel.app/?" align="center">
+<img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gmydz5nozhwfxjh7nlvxfz3tci&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31gmydz5nozhwfxjh7nlvxfz3tci&redirect=true)" align="center">
 </div>
 

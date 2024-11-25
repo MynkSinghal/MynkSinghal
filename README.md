@@ -10,7 +10,7 @@
     <li>🌐 Founder of LaVisuals, an online marketplace for anime graphics</li>
     <li>🧩 Skilled in project management, team leadership, and strategic planning</li>
     <li>🚀 Passionate about creating user-friendly web platforms and Discord bots</li>
-    <li>🛠️ Experienced with technologies like Firebase, PostgreSQL, and Git</li>
+<!--     <li>🛠️ Experienced with technologies like Firebase, PostgreSQL, and Git</li> -->
     <li>📚 Committed to continuous learning and skill development in tech</li>
     <li>🤝 Enthusiastic about collaborating on innovative projects and making an impact</li>
 </ul>

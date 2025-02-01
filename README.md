@@ -9,7 +9,7 @@
 
 
 
-## 🔍 About Me:
+### 🔍 About Me:
 
 - 💻 Full-stack web developer (React, Next.js, Node.js, Express, MongoDB, Supabase)
 - 📊 Data science fan, working on visualization & AI projects

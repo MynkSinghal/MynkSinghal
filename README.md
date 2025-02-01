@@ -19,7 +19,7 @@
 - 📊 Head of Graphic Designing/Deputy Head of Events @ ACM Sigbed MUJ
 - 📚 Always learning—currently exploring **AI + Web3 + SaaS** 🔥
 
----
+
 
 ## 🌟 Featured Projects
 
@@ -35,7 +35,7 @@
 - **Dark/light mode previews** for UI/UX designers
 - **OAuth authentication** for personalized user palettes
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -44,7 +44,6 @@
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=MynkSinghal&hide_border=true&theme=algolia" />
 </p>
 
----
 
 ## ⚡ Tech Stack
 

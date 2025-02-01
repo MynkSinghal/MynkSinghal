@@ -7,7 +7,7 @@
 🚀 CSE Student @ Manipal University Jaipur | Web Developer | Data Science Enthusiast | Graphic Designer  
 💡 Founder of LaVisuals | Tech & Design Fusionist | SaaS & AI Explorer  
 
----
+
 
 ## 🔍 About Me:
 
@@ -18,24 +18,6 @@
 - 🏆 Mentored 45+ students in design & prototyping
 - 📊 Head of Graphic Designing/Deputy Head of Events @ ACM Sigbed MUJ
 - 📚 Always learning—currently exploring **AI + Web3 + SaaS** 🔥
-
-
-
-## 🌟 Featured Projects
-
-### 🎭 **Trylo - Virtual Try-On** *(AI, Computer Vision, PyTorch)*
-🔗 [Live Demo](https://trylo-virtual-try-on.vercel.app/) | 📝 [Code](https://github.com/MynkSinghal/trylo)
-- AI-powered **garment deformation model** (MV-VTON) for realistic try-ons
-- **GAN-based pipeline** (Try-On-GAN) for high-fidelity clothing textures
-- Optimized for **real-world usability & interactive previews**
-
-### 🎨 **VibrantHues - Color Palette Visualizer** *(Next.js, Supabase, Clerk OAuth)*
-🔗 [Live Demo](https://vibrant-hues-color-picker-website-zjhg.vercel.app/) | 📝 [Code](https://github.com/MynkSinghal/vibranthues)
-- **Full-stack palette generator** with JSON/PNG export
-- **Dark/light mode previews** for UI/UX designers
-- **OAuth authentication** for personalized user palettes
-
-
 
 ## 📈 GitHub Stats
 
